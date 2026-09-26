@@ -1,0 +1,6 @@
+{
+  "name": "Oxygen Fitness Club",
+  "description": "Premium, human-designed wellness & fitness club website for Oxygen Fitness Club on Najmudin Road, Quetta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
